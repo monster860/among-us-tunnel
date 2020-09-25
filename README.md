@@ -18,7 +18,7 @@ There are two ways to use this tool while running this game on your phone. You c
 
 ### Running the tool.
 
-If you are running on windows, you can use the release found [here](https://github.com/monster860/among-us-tunnel/releases/download/1.0.0/among-us-tunnel.zip), simply extract it somewhere and run the `tunnel.bat` file. Otherwise, you can download and install `node.js` and download the source code found [here](https://raw.githubusercontent.com/monster860/among-us-tunnel/master/among_us_tunnel.js), and run `node among_us_tunnel.js` in the same folder.
+If you are running on windows, you can use the release found [here](https://github.com/monster860/among-us-tunnel/releases/download/1.0.1/among-us-tunnel.zip), simply extract it somewhere and run the `tunnel.bat` file. Otherwise, you can download and install `node.js` and download the source code found [here](https://raw.githubusercontent.com/monster860/among-us-tunnel/master/among_us_tunnel.js), and run `node among_us_tunnel.js` in the same folder.
 
 ### Hosting a game.
 
