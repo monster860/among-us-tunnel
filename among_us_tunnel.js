@@ -124,7 +124,7 @@ function be_client_for(ip, port, active_connections, targetip, targetport, serve
 		if(timeout) clearTimeout(timeout);
 		timeout = setTimeout(() => {
 			console.warn("Connection from " + targetip + ":" + targetport + " timed out");
-			active_connections.delete(ip+":"+port);
+			active_connections.delete(targetip+":"+targetport);
 			socket.close();
 			return;
 		}, 30000);
