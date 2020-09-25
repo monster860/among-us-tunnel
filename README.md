@@ -8,7 +8,7 @@ This solves this by allowing you to use the Local game functionality, which is i
 This tool works both if you are playing on your PC or on your phone.
 
 ## Why not just use hamachi?
-Unlike hamachi, this tool *only* works with Among Us. The way it does this is, on the hosting side, it pretends to be several Among Us clients, and on the client side, it pretends to be several Among Us servers. Because of this, this tool doesn't require administrator privileges, and it's way easier to set up than hamachi. It will require you to forward a port though.
+Unlike hamachi, this tool *only* works with Among Us. The way it does this is, on the hosting side, it pretends to be several Among Us clients, and on the client side, it pretends to be an Among Us server. Because of this, this tool doesn't require administrator privileges, and it's way easier to set up than hamachi. It will require you to forward a port though.
 
 ## How do I use this?
 
